@@ -1,0 +1,12 @@
+{
+  "server": {
+    "host": "0.0.0.0",
+    "port": 6969
+  },
+  "file-store-dir-path": "/home/tg/Projects/personal/fp-trials/deploy/dev/files",
+  "clients": [],
+  "google": {
+    "clientId": "",
+    "clientSecret": ""
+  }
+}
